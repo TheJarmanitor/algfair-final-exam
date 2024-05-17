@@ -1,1 +1,3 @@
-Fairness and debiasing on bayesian Regression for geographical data
+Confound analysis and debiasing effects on NYC crime geographic Data.
+
+Final work for the spring 2024 course "Algorithmic Fairness and Ethics" 
